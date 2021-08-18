@@ -1,0 +1,14 @@
+[
+    {
+        "Path": "c:\\temp\\asfnowa.tst",
+        "TimeInterval": "1d"
+    },
+    {
+        "Path": "C:\\temp\\unique.txt",
+        "TimeInterval": "1m"
+    },
+    {
+        "Path": "C:\\temp",
+        "TimeInterval": "1M"
+    }
+]
